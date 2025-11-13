@@ -1,15 +1,18 @@
-### Tie_Team_Ariam
+# **Tie_Team_Ariam**
 
-Integrated Digital Marketing Plan for handmade wedding trays
-
-##Project Idea:
-The demand for handcrafted wedding trays and décor is rising, as modern Arab couples seek a harmonious blend of cultural authenticity and contemporary elegance.
+###Integrated Digital Marketing Plan for handmade wedding trays
 ---
-##Project Objectives:
-Highlight the cultural significance of wedding trays and décor.
-Leverage emotional storytelling to connect with couples.
-Capitalize on digital and social trends, particularly Instagram and TikTok, where visual splendor drives purchasing decisions.
-Engage key influencers and wedding planners who shape preferences in the region.
+
+
+##**Project Idea** :
+The demand for handcrafted wedding trays and décor is rising, as modern Arab couples seek a harmonious blend of cultural authenticity and contemporary elegance.
+
+**Project Objectives**:
+-Highlight the cultural significance of wedding trays and décor.
+-Leverage emotional storytelling to connect with couples.
+-Capitalize on digital and social trends, particularly Instagram and TikTok, where visual splendor drives purchasing decisions.
+-Engage key influencers and wedding planners who shape preferences in the region.
+
 ---
 ##Team Members:
 Ebraheim Saeid
