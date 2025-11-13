@@ -1,4 +1,4 @@
-#**Ariam - Digital Marketing Plan**
+**Ariam - Digital Marketing Plan**
 -
 A comprehensive digital marketing strategy for launching and promoting a brand specializing in handcrafted wedding trays and décor, blending cultural authenticity with contemporary elegance.
 
