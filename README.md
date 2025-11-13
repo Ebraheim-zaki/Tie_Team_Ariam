@@ -1,24 +1,24 @@
-# Tie_Team_Ariam
+### Tie_Team_Ariam
 
 Integrated Digital Marketing Plan for handmade wedding trays
 
-Project Idea:
+##Project Idea:
 The demand for handcrafted wedding trays and décor is rising, as modern Arab couples seek a harmonious blend of cultural authenticity and contemporary elegance.
-
-Project Objectives:
+---
+##Project Objectives:
 Highlight the cultural significance of wedding trays and décor.
 Leverage emotional storytelling to connect with couples.
 Capitalize on digital and social trends, particularly Instagram and TikTok, where visual splendor drives purchasing decisions.
 Engage key influencers and wedding planners who shape preferences in the region.
-
-Team Members:
+---
+##Team Members:
 Ebraheim Saeid
 Abd El-Rahman Ramadan
 Yara Mamdouh
 Sama Hany
 Omar Saber
-
-Work Plan:
+---
+##Work Plan:
 Phase 1 — Research & Analysis
 SMART Objectives (Yara Mamdouh)
 SWOT Analysis (Abd El-Rahman Ramadan)
@@ -27,22 +27,21 @@ Segmentation (Sama Hany)
 Value Proposition (Sama Hany)
 Account Analysis (Abd El-Rahman Ramadan)
 Competitive Analysis (Yara Mamdouh)
-
-Phase 2 — Strategy & Creative
+---
+##Phase 2 — Strategy & Creative
 Buyer Personas (Yara, Sama, Omar Saber & abd elrahman)
 Content Creation (Copywriting & Design) (Yara, Sama, Omar & Abd El-Rahman Ramadan)
 Media Buying Plan (Ebraheim Saeid)
-
-Phase 3 — Execution & Reporting
+---
+##Phase 3 — Execution & Reporting
 Business Model Canvas (BMC) (Ebraheim Saeid)
 Website on Google Sites (Sama, Omar Saber & Abd El-Rahman Ramadan)
 SEO Plan (Keyword Research + Suggested Topics) (Yara & Sama)
 Media Buying & Implementation Results (Ebraheim Saeid)
 Analysis Report (Abd El-Rahman Ramadan)
 Recommendations (Omar Saber)
-
-
-Roles & Responsibilities
+---
+##Roles & Responsibilities
 Ebraheim Saeid (Team Leader)
 Primary: Introdcution, Business Model Canvas (BMC), Media Buying Plan
 Secondary: all joints of the project
@@ -62,13 +61,14 @@ Secondary: Ad Copywriting, Website on Google Sites, SEO Plan
 Omar Saber
 Primary: Recommendations
 Secondary: Ad Copywriting, Marketing MIX, Website on Google Sites, Buyer Personas
+---
 
-
-Instructor
+##Instructor
 Eng. Safy El-Din Ahmed
-
-Project Files
-📂 Google Drive Folder
-
-Summary
+---
+##Project Files
+📂 Google Drive Folder:
+https://drive.google.com/drive/u/0/folders/1Rur3qrgIzQYORCqhGsAQ41A1LqzRiUFD
+---
+##Summary
 The demand for handcrafted wedding trays and décor is rising, as modern Arab couples seek a harmonious blend of cultural authenticity and contemporary elegance. so, there is a prime opportunity to position your brand as the go-to for luxury, tradition, and unmatched craftsmanship.
