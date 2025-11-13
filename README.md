@@ -1,7 +1,8 @@
-Tie Team Ariam - Digital Marketing Plan
+#Ariam - Digital Marketing Plan
 A comprehensive digital marketing strategy for launching and promoting a brand specializing in handcrafted wedding trays and décor, blending cultural authenticity with contemporary elegance.
+-
 
-📋 Project Overview
+### 📋 Project Overview
 
 The demand for handcrafted wedding trays and décor is rising, as modern Arab couples seek a harmonious blend of cultural authenticity and contemporary elegance. This project presents a prime opportunity to position a brand as the go-to source for luxury, tradition, and unmatched craftsmanship.
 
