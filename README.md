@@ -1,7 +1,3 @@
-Of course! Here is your project information formatted into a professional and well-structured GitHub README.
-
----
-
 # Tie Team Ariam - Digital Marketing Plan
 
 A comprehensive digital marketing strategy for launching and promoting a brand specializing in handcrafted wedding trays and décor, blending cultural authenticity with contemporary elegance.
@@ -24,7 +20,7 @@ The demand for handcrafted wedding trays and décor is rising, as modern Arab co
 | **Ebraheim Saeid** | Team Leader |
 | **Abd El-Rahman Ramadan** | Analyst & Moderator |
 | **Yara Mamdouh** | Marketing & SEO Specialist |
-| **Sama Hany** | Strategy & UX Specialist |
+| **Sama Hany** | Strategy & Marketing Specialist |
 | **Omar Saber** | Strategy & Content Specialist |
 
 ## 📅 Work Plan
