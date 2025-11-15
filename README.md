@@ -32,7 +32,7 @@ The demand for handcrafted wedding trays and décor is rising, as modern Arab co
 *   **Marketing Mix (4Ps)** (Yara Mamdouh & Omar Saber)
 *   **Segmentation** (Sama Hany)
 *   **Value Proposition** (Sama Hany)
-*   **Account Analysis** (Abd El-Rahman Ramadan)
+*   **Account Analysis** (Ebbraheim Saeid)
 *   **Competitive Analysis** (Yara Mamdouh)
 
 ### Phase 2 — Strategy & Creative
@@ -52,7 +52,7 @@ The demand for handcrafted wedding trays and décor is rising, as modern Arab co
 
 | Team Member | Primary Responsibilities | Secondary Contributions |
 | :--- | :--- | :--- |
-| **Ebraheim Saeid** | Introduction, Business Model Canvas (BMC), Media Buying Plan | Project oversight and integration across all joints |
+| **Ebraheim Saeid** | Introduction, Business Model Canvas (BMC), Account Analysis, Media Buying Plan | Project oversight and integration across all joints |
 | **Abd El-Rahman Ramadan** | SWOT Analysis, Landing Page, Analysis Report, Account Moderation | Buyer Personas, Ad Copywriting |
 | **Yara Mamdouh** | Marketing MIX, Competitive Analysis, SEO Plan, Account Moderation | Ad Copywriting |
 | **Sama Hany** | Value Proposition, Segmentation, Buyer Personas | Ad Copywriting, Website on Google Sites, SEO Plan |
