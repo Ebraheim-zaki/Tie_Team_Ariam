@@ -33,7 +33,7 @@ The demand for handcrafted wedding trays and décor is rising, as modern Arab co
 *   **Marketing Mix (4Ps)** (Yara Mamdouh & Omar Saber)
 *   **Segmentation** (Sama Hany)
 *   **Value Proposition** (Sama Hany)
-*   **Account Analysis** (Ebbraheim Saeid)
+*   **Account Analysis** (Ebraheim Saeid)
 *   **Competitive Analysis** (Yara Mamdouh)
 
 ### Phase 2 — Strategy & Creative
