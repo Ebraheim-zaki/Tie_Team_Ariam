@@ -27,6 +27,7 @@ The demand for handcrafted wedding trays and décor is rising, as modern Arab co
 ## 📅 Work Plan
 
 ### Phase 1 — Research & Analysis
+*   **Introduction** (Ebraheim Saeid)
 *   **SMART Objectives** (Yara Mamdouh)
 *   **SWOT Analysis** (Abd El-Rahman Ramadan)
 *   **Marketing Mix (4Ps)** (Yara Mamdouh & Omar Saber)
